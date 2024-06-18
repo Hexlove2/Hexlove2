@@ -15,4 +15,4 @@
 - Movie: **The Shawshank Redemption**
 - Actor: **Emma Myers**
 
-<img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/IMG_0043.jpeg" alt="IMG_0043" style="zoom: 25%;" />
+![IMG_0043 2](https://raw.githubusercontent.com/Hexlove2/images1/main/images/IMG_0043%202.jpeg)
