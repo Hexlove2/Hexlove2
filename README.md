@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Hexlove2/Hexlove2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My name's Sunday cause I believe that everyone like Sundays, I received my bachelor’s degree in Mathematics and Applied Mathematics from the University of Hefei Technology in 2022, I have many hobbies, like watching series in Netflix, playing games, painting, coding, btw, I am a huge fan of Emma Myers......I hope to do my best to make my dreams come true, I know I did't do well in the past, but later's better than never.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning socket coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ------
+
+✨**Favorite things:**
+
+- Series: **Wednesday**
+- Anime: **Digital Monster 1**
+- Music：**Summertime Sadness**
+- Game: **GTA5**
+- Movie: **The Shawshank Redemption**
+- Actor: **Emma Myers**
+
+<img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/IMG_0043.jpeg" alt="IMG_0043" style="zoom: 25%;" />
