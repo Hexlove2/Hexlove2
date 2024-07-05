@@ -16,20 +16,6 @@
 - Actor: **Emma Myers**
 
 ![](https://github-readme-stats.vercel.app/api?username=Hexlove2&show_icons=true&theme=transparent)                 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexlove2&layout=compact&theme=tokyonight)
-✨**Favorite things:**
 
-<table>
-  <tr>
-    <td>
-      - Series: **Wednesday**<br>
-      - Anime: **Digital Monster 1**<br>
-      - Music：**Summertime Sadness**<br>
-      - Game: **GTA5**<br>
-      - Movie: **The Shawshank Redemption**<br>
-      - Actor: **Emma Myers**
-    </td>
-    <td style="text-align: right;">
-      <img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/emma.webp" width="200" style="margin-left: 20px;">
-    </td>
-  </tr>
-</table>
+| <div> - Series: **Wednesday**<br> - Anime: **Digital Monster 1**<br> - Music: **Summertime Sadness**<br> - Game: **GTA5**<br> - Movie: **The Shawshank Redemption**<br> - Actor: **Emma Myers** </div> | <img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/emma.webp" width="200"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
