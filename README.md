@@ -6,7 +6,7 @@
 
   ------
 
-✨**Favorite things:**   <img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/emma.webp" width="200" style="float: right; margin-left: 20px;">
+✨**Favorite things:**   <img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/Screenshot 2024-07-06 at 02.42.49.png" width="500" ><img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/emma.webp" width="200">
 
 - Series: **Wednesday**
 - Anime: **Digital Monster 1**
@@ -17,5 +17,3 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Hexlove2&show_icons=true&theme=transparent)                 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexlove2&layout=compact&theme=tokyonight)
 
-| <div> - Series: **Wednesday**<br> - Anime: **Digital Monster 1**<br> - Music: **Summertime Sadness**<br> - Game: **GTA5**<br> - Movie: **The Shawshank Redemption**<br> - Actor: **Emma Myers** </div> | <img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/emma.webp" width="200"> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
