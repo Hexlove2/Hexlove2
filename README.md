@@ -17,3 +17,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Hexlove2&show_icons=true&theme=transparent)                 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexlove2&layout=compact&theme=tokyonight)
 
+<div style="float: right; margin-left: 20px;">
+    <img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/emma.webp" width="200">
+</div>
