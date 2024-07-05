@@ -8,7 +8,7 @@
 
 
 
-✨**Favorite things:**   <img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/Screenshot 2024-07-06 at 02.42.49.png" width="500" ><img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/emma.webp" width="200" style="float: right; margin-left: 20px;">
+✨**Favorite things:**   <img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/Screenshot 2024-07-06 at 02.42.49.png" width="500"  style="float: right; margin-left: 20px;" ><img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/emma.webp" width="200" style="float: right; margin-left: 20px;">
 
 - Series: **Wednesday**
 - Anime: **Digital Monster 1**
