@@ -19,5 +19,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Hexlove2&show_icons=true&theme=transparent)                 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hexlove2&layout=compact&theme=tokyonight)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" alt="Sunday's Blog" target="_blank"><img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/tobeused.png"   ></a>
+<a href="https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click&vd_source=4e6af22d854a2941bc0fcc00ebe7ecd7" alt="Sunday's Blog" target="_blank"><img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/tobeused.png"   ></a>
 
