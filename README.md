@@ -1,8 +1,8 @@
 ## Hi there  <img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/giphy-20240706104316178.gif" width="60">
 
-- 🔭 My name's Sunday cause I hope that everyone likes Sundays, I received my bachelor’s degree in Mathematics and Applied Mathematics from the University of Hefei Technology in 2022, I have many hobbies, like watching series on Netflix, playing games, painting, coding, btw, I am a huge fan of Emma Myers......
+- 🔭 My name's Sunday cause I hope that everyone likes Sundays. I received my bachelor’s degree in Mathematics and Applied Mathematics from the University of Hefei Technology in 2022. I have many hobbies, like watching shows on Netflix, playing games, painting, and coding. Btw, I'm a tremendous fan of Emma Myers. I'm also very into spooky things, like novels of Stephen King, horror movies......
 
-- 🌱 I’m currently learning socket coding, swift, pjsip, freeswitch, machine learning......<img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/giphy.webp" width="50"  align="right">
+- 🌱  I love learning languages, my English level is around B1-B2. I plan to learn French or Japanese after mastering English. I'm also looking forward to making new international friends.<img src="https://raw.githubusercontent.com/Hexlove2/images1/main/images/giphy.webp" width="50"  align="right">
 
   ------
 
@@ -10,7 +10,7 @@
 
 ✨**Favorite things:** 
 
-- Series: **Wednesday**
+- Shows: **Friends**
 - Anime: **Digital Monster 1**
 - Music： **Summertime Sadness**
 - Game: **GTA5**
